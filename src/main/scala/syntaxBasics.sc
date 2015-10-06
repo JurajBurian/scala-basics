@@ -1,7 +1,7 @@
 /**
  * value.
  * press Alt + Enter when focus on numbers
- * press Alt = when focus on numbers
+ * press Alt + = when focus on numbers
  */
 /*
 val numbers = 1 to 10;
@@ -30,7 +30,7 @@ val result = if(Random.nextBoolean()) 1 else 2
 */
 
 /**
- * cycle
+ * function
  */
 /*def cycle(to:Int) = {
 	var it, sum= 0
@@ -50,26 +50,4 @@ class X(var x:Int, var y:Int) {
 	def this(a: Int) = this(a, 0)
 }
 new X(x = 2, y = 4) // named parameters
-*/
-
-/*sealed trait Root
-sealed trait LChild extends Root
-sealed trait RChild extends Root
-class Parent(a: String = "Parent") extends Root
-class L(a: String = "L") extends LChild
-class R(a: String = "R") extends RChild
-
-val seq = Seq[R]()
-seq
-val seq2 = seq :+ new R()
-seq2
-val seq3=  seq2 :+ new L()
-seq3*/
-
-/*
-import sb._
-val src: Any = desugar(
-	for(x<- 1 to 3)yield{x}
-)
-src
 */

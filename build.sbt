@@ -6,8 +6,8 @@ scalacOptions := 	Seq(
 	"-unchecked",
 	"-deprecation",
 	"-feature",
-	"-Xfatal-warnings",
-	"-Xlint",
+//	"-Xfatal-warnings",
+//	"-Xlint",
 	"-Yrangepos",
 	"-language:postfixOps"
 )
