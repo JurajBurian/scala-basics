@@ -3,14 +3,12 @@
  * press Alt + Enter when focus on numbers
  * press Alt + = when focus on numbers
  */
-/*
 val numbers = 1 to 10;
 val fibo: Stream[Int] = 0 #:: fibo.scanLeft(1)(_ + _)
 val fibosCount = 10
 val fibos = for (x <- 0 to fibosCount) yield (fibo(x))
-*/
 
-
+val x = "Ahoj"
 /**
  * variable akka field or class member in java
  *
