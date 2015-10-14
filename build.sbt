@@ -12,5 +12,11 @@ scalacOptions := 	Seq(
 	"-language:postfixOps"
 )
 
+libraryDependencies ++= Seq(
+	"com.typesafe.slick" %% "slick" % "3.1.0",
+	"org.slf4j" % "slf4j-nop" % "1.6.4",
+	"com.h2database" % "h2" % "1.4.190",
+	"org.scalatest" %% "scalatest" % "2.2.4" % "test"
+)
 libraryDependencies <+= scalaVersion("org.scala-lang" % "scala-reflect" % _)
     
