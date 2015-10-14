@@ -1,0 +1,19 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="src" path="src/main/resources"/>
+  <classpathentry kind="src" path="target/scala-2.11/src_managed/main"/>
+  <classpathentry kind="src" path="target/scala-2.11/resource_managed/main"/>
+  <classpathentry kind="src" path="target/scala-2.11/src_managed/test"/>
+  <classpathentry kind="src" path="target/scala-2.11/resource_managed/test"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.0.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.10-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/com.typesafe/config/srcs/config-1.2.1-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/org.reactivestreams/reactive-streams/srcs/reactive-streams-1.0.0-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/org.slf4j/slf4j-nop/srcs/slf4j-nop-1.6.4-sources.jar" kind="lib" path="/opt/activator/repository/org.slf4j/slf4j-nop/1.6.4/jars/slf4j-nop.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/com.h2database/h2/srcs/h2-1.4.190-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/com.h2database/h2/jars/h2-1.4.190.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-2.2.4-sources.jar" kind="lib" path="/opt/activator/repository/org.scalatest/scalatest_2.11/2.2.4/bundles/scalatest_2.11.jar"/>
+  <classpathentry sourcepath="/home/jubu/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.2-sources.jar" kind="lib" path="/home/jubu/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
